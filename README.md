@@ -8,7 +8,7 @@
 - Uma série da Netflix chamada Black Mirror onde contém vários episódios abordando diversos assuntos, esse projeto faz pergintas relacionadas na temporada 6 do ep.01, que fala sobre a "Joana is awful".
 
 - Um programa em que o usuário irá informar uma pergunta (utilizando exatamente as perguntas do questionário na imagem abaixo) e o sistema deverá apresentar a resposta.
-- 
+ 
 ## <h2 align="center"> :camera:Perguntas da Série</h2>
 ![perguntas](https://raw.githubusercontent.com/MBrito0/Projeto_Black_Mirror/main/perguntas.png)
 
