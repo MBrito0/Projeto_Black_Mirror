@@ -13,3 +13,5 @@
 ## :wrench: Tecnologias Utilizadas
  - Python
  - Vscode
+
+![perguntas]([https://user-images.githubusercontent.com/115156601/226239399-bccf5297-8a60-4161-98e5-3652db758186.png](https://raw.githubusercontent.com/MBrito0/Projeto_Black_Mirror/main/perguntas.png))
