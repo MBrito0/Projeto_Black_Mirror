@@ -1,7 +1,7 @@
 <h1 align="center"> Programadores Cariocas Data Analytics </h1>
 
 <p aling="center">
-  <a aling="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27F72B&background=D247FF00&random=false&width=435&lines=Projeto+em+Python_Black+Mirror_Senac/Resilia" alt="Typing SVG" /></a>
+  <a aling="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27F72B&background=D247FF00&random=false&width=435&lines=Projeto+em+Python_Black_Mirror_Senac/Resilia" alt="Typing SVG" /></a>
 </p>
 
 ## :pushpin: Descrição
